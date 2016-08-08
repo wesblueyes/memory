@@ -1,0 +1,33 @@
+
+.card {
+  border: 2px solid #0d0d0d;
+  align-content: space-between;
+  margin: 10px;
+  border-radius: 10px;
+  height: 200px;
+  }
+#cardContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  }
+h1 {
+  text-align: center;
+  font-family: 'Special Elite', serif;
+  color: #5e2f0d;
+}
+
+p {
+  text-align: center;
+  font-family: 'Special Elite', serif;
+  color: #5e2f0d;
+}
+
+.message {
+  text-align: center;
+  font-family: 'Special Elite', serif;
+  color: #5e2f0d;
+}
